@@ -8,4 +8,8 @@ class ApplicationController < ActionController::Base
   def goodbye
     render html:  "Goodbye Sharks"
   end 
+  
+  def hey
+    render html:  "Hey there"
+  end
 end

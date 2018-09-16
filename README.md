@@ -1,5 +1,5 @@
 # README
-# Ruby on Rails Tutorial - part 3
+# Ruby on Rails Tutorial - part 3 Test
 ## "hello, world!"
 This is the first application.
 
